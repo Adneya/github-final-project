@@ -1,0 +1,12 @@
+Command:
+git branch -a -vv
+
+Output:
+  bug-fix-revert                df0f30f [origin/bug-fix-revert] Update required assignment files and add CODE_OF_CONDUCT
+  bug-fix-typo                  448a55d [origin/bug-fix-typo] Update README wording for bug-fix-typo
+* main                          448a55d [origin/main] Update README wording for bug-fix-typo
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert df0f30f Update required assignment files and add CODE_OF_CONDUCT
+  remotes/origin/bug-fix-typo   448a55d Update README wording for bug-fix-typo
+  remotes/origin/main           448a55d Update README wording for bug-fix-typo
+
